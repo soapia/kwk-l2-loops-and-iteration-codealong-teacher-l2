@@ -16,4 +16,4 @@ function tailsNeverFails() {
   return `You got ${flips} tails in a row!`
 }
 
-printBadges(['Ada', 'Brendan', 'Ali'])
+// printBadges(['Ada', 'Brendan', 'Ali'])
